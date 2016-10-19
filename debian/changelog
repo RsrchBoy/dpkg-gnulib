@@ -1,3 +1,9 @@
+gnulib (20140202+stable-2~14.04~ppa1) trusty; urgency=medium
+
+  * Build for trusty.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Wed, 19 Oct 2016 16:38:02 -0500
+
 gnulib (20140202+stable-2) unstable; urgency=low
 
   * New package: git-merge-changelog (Closes: #646013).
